@@ -1,3 +1,5 @@
+[Main page](https://github.com/Nikita-devel) | [Python Web Page](https://github.com/Nikita-devel/Python_Web)
+
 # Dedalus - Personal Assistant and Organizer
 
 Dedalus is a personal assistant and organizer built using Python. It allows you to manage contacts, notes, weather information, and more. This README provides an overview of the codebase and the available commands.
